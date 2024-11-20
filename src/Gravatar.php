@@ -22,7 +22,7 @@ class Gravatar
      *
      * @var string
      */
-    private string $publicBaseUrl = 'https://www.gravatar.com/avatar/';
+    private string $publicBaseUrl = 'https://cravatar.cn/avatar/';
 
     /**
      * Email address to check.
