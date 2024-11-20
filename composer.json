@@ -9,7 +9,7 @@
     "license": "MIT",
     "support": {
         "issues": "https://github.com/cc2562/gravatar/",
-        "source": "https://github.com/cc2562/gravatar/",
+        "source": "https://github.com/cc2562/gravatar/"
     },
     "require": {
         "flarum/core": "^1.2.0",
